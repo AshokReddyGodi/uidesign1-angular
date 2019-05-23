@@ -1,0 +1,40 @@
+.container {
+  background-image: linear-gradient(rgb(15, 153, 160), rgb(4, 44, 36));
+    height:595px;
+    width:950px;
+    border:1px solid #20B2AA;
+    display: inline-block;
+    margin-top:-45%;
+    margin-left: 44%;
+    border-radius:2px;
+  }
+
+  
+  #welcome{ 
+    padding-left:3%;
+      color:#ffffff;
+      font-size:35px;
+      margin-left:30%;
+      padding-top:24%;
+  }
+
+  img{
+      margin-left:33%; 
+      padding-top:-2%;
+    } 
+    
+    b {
+        font-size:50px;
+        margin-left:3%;
+        color:lightgrey;
+    }
+
+    #lorem{
+        color:lightgrey;
+        font-size:20px;
+      }
+
+      p{
+        margin-left:32%;
+        margin-top:-8%;
+      }
